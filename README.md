@@ -7,9 +7,9 @@ PyconMiniSapporo 2019の発表で紹介したソースです。
 ライセンスはMITです
 
 # 各ディレクトリの内容
-- mini_wsgi_application: 小さなWSGIアプリケーション例
-- crap_wsgi_server: 非実用的なWSGIサーバのソースコード
-- crap_wsgi_web_framework: 非実用的なWSGIサーバのソースコード
+- mini_wsgi_application: 8~9ページあたりの小さなWSGIアプリケーション例
+- crap_wsgi_server: 17~20ページあたりの非実用的なWSGIサーバのソースコード
+- crap_wsgi_web_framework: 23~27ページあたりの非実用的なWSGIサーバのソースコード
 
 # 発表スライド
 https://hayasaka-ryosuke.github.io/pyconminisap2019_demo/
