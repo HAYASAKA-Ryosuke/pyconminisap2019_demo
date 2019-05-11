@@ -12,4 +12,4 @@ PyconMiniSapporo 2019の発表で紹介したソースです。
 - crap_wsgi_web_framework: 非実用的なWSGIサーバのソースコード
 
 # 発表スライド
-http://HAYASAKA-Ryosuke.github.io/
+https://hayasaka-ryosuke.github.io/pyconminisap2019_demo/
